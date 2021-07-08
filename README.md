@@ -41,9 +41,6 @@
   <p align="center">
     A console application for recording details of football (Soccer) matches that you referee.
     <br />
-    https://dev.azure.com/srhodgson/RefereeCareerTracker/_apis/build/status/srhodgson.RefereeCareerTracker?branchName=main
-  [![Build Status](https://dev.azure.com/srhodgson/RefereeCareerTracker/_apis/build/status/srhodgson.RefereeCareerTracker?branchName=main)](https://dev.azure.com/srhodgson/RefereeCareerTracker/_build/latest?definitionId=4&branchName=main)
-    <br />
     <a href="https://github.com/srhodgson/RefereeCareerTracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
