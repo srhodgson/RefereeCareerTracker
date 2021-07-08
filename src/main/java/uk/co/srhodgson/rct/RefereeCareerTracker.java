@@ -1,10 +1,10 @@
-package uk.co.srhodgson;
+package uk.co.srhodgson.rct;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class RefereeCareerTracker 
 {
     public static void main( String[] args )
     {
